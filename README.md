@@ -34,7 +34,7 @@ This project focuses on predicting loan approvals using a dataset with various a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-approval-prediction.git
+   git clone https://github.com/crazyNerrd/Loan-Approval.git
    ```
 2. Install the required packages:
    ```bash
@@ -70,12 +70,3 @@ This project focuses on predicting loan approvals using a dataset with various a
 - Display accuracy scores for both Decision Tree and Naive Bayes classifiers.
 - Provide insights on model performance and potential improvements.
 
-## Contributing
-Contributions are welcome! Please create an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust the sections and content according to your specific project details.
